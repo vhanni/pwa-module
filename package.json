@@ -43,7 +43,7 @@
     "jsdom": "^15.0.0",
     "klaw-sync": "^6.0.0",
     "lerna": "^3.13.4",
-    "nuxt-edge": "^2.7.0-25943048.9fb720d5",
+    "nuxt-edge": "^2.7.0-25945930.989add8f",
     "standard-version": "^5.0.2"
   }
 }
